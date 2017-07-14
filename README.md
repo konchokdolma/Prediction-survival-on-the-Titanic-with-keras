@@ -14,7 +14,7 @@ In this example to build the model we use five dense layers with 270 number of e
 
 Example output:
 
-`
+```
 32/712 [>.............................] - ETA: 0s
 acc: 86.24%
 loss: 5.24%
@@ -24,7 +24,7 @@ train loss: 4.88%
 
 test accuracy: 83.47% 
 test loss: 5.96%
-`
+```
 
 ### prediction-survival-titanic-lstm.py
 
@@ -32,7 +32,7 @@ In this example for the model we use two lstm layers with 30 of the epochs and b
 
 Example output:
 
-`
+```
 32/712 [>.............................] - ETA: 0s
 acc: 83.15%
 loss: 5.38%
@@ -42,4 +42,4 @@ train loss: 5.24%
 
 test accuracy: 83.05% 
 test loss: 5.66%
-`
+```
