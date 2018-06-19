@@ -4,7 +4,7 @@
 import numpy as np
 import pandas as pd
 from keras.models import Sequential
-from keras.layers import Dense, LSTM
+from keras.layers import Dense
 import math
 
 #loading train data and dropping columns with names and tickets
